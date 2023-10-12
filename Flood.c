@@ -1,10 +1,4 @@
 /*
-
-
-* This is released under the GNU GPL License v3.0, and is allowed to be used for commercial products ;)
-*/
-/*
-
 * Made By antilag, I do not take any responsibility if you do something.
 */
 #include <unistd.h>
